@@ -18,8 +18,8 @@
  * @package WordPress
  */
 
- define('WP_HOME','http://stagingwordpress.hanisnoor.com');
-define('WP_SITEURL','http://stagingwordpress.hanisnoor.com');
+ define('WP_HOME','http://stagingwp.hanisnoor.com');
+define('WP_SITEURL','http://stagingwp.hanisnoor.com');
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
