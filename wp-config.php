@@ -23,10 +23,10 @@ define('WP_SITEURL','http://stagingwp.hanisnoor.com');
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'stagingwp' );
+define( 'DB_NAME', 'u167791951_stagingwp' );
 
 /** MySQL database username */
-define( 'DB_USER', 'haniswp' );
+define( 'DB_USER', 'u167791951_haniswp' );
 
 /** MySQL database password */
 define( 'DB_PASSWORD', '' );
